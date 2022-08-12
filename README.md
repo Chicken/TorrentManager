@@ -15,3 +15,7 @@ Example:
 ```
 "/external/downloads/linux" "archlinux-(\d+)\.(\d+)\.\d+-x86_64\.iso" "/var/www/mirror/arch/$1-$2.iso"
 ```
+
+## Docker
+
+Figure it out yourself- can't be bothered to document. Just needed this for myself.
